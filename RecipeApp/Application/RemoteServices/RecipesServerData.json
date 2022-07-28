@@ -1,0 +1,56 @@
+{
+"recipes" : [
+  {
+    "id": "42",
+    "name": "Carne Asada Bowl",
+    "price": 15,
+    "ingredients": {
+      "salt": 1,
+      "chicken": 5,
+      "steak": 5,
+      "farro": 2,
+      "black_beans": 2,
+      "guacamole": 5
+    }
+  },
+  {
+    "id": "84",
+    "name": "Pollo Quesedilla",
+    "price": 12,
+    "ingredients": {
+      "salt": 1,
+      "chicken": 5,
+      "black_beans": 2,
+      "guacamole": 3,
+      "cheddar cheese": 5
+    }
+  }
+],
+"stocks" : [
+    {
+        "id": "1",
+        "name": "Chicken",
+        "kg": 5
+    },
+    {
+        "id": "2",
+        "name": "Salt",
+        "kg": 3
+    },
+    {
+        "id": "3",
+        "name": "Avocado",
+        "kg": 1
+    },
+    {
+        "id": "4",
+        "name": "Cocoa Powder",
+        "kg": 3
+    },
+    {
+        "id": "5",
+        "name": "Rice",
+        "kg": 4
+    }
+]
+}
